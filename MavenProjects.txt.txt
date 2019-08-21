@@ -1,3 +1,4 @@
-Create Maven web app and run them using Tomcat Maven Plugin, Jetty Maven Plugin.
+Create Maven web app and run them using Tomcat Maven Plugin.
+Create Maven web app and run them using Jetty Maven Plugin.
 Maven Project with Multi Module.
 Create Java OSGI using Maven and Tycho.
